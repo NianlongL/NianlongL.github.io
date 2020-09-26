@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tek-Jin Nam | Nianlong Li</title>
+    <link>https://NianlongL.github.io/author/tek-jin-nam/</link>
+      <atom:link href="https://NianlongL.github.io/author/tek-jin-nam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tek-Jin Nam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 15:26:31 +0800</lastBuildDate>
+    <image>
+      <url>https://NianlongL.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tek-Jin Nam</title>
+      <link>https://NianlongL.github.io/author/tek-jin-nam/</link>
+    </image>
+    
+    <item>
+      <title>HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism</title>
+      <link>https://NianlongL.github.io/publication/uist2020-haplinkage/</link>
+      <pubDate>Sat, 26 Sep 2020 15:26:31 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/uist2020-haplinkage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
