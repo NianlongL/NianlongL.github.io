@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism</title>
+      <title>HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism (UIST&#39; 20)</title>
       <link>https://NianlongL.github.io/publication/uist2020-haplinkage/</link>
       <pubDate>Sat, 26 Sep 2020 15:26:31 +0800</pubDate>
       <guid>https://NianlongL.github.io/publication/uist2020-haplinkage/</guid>
@@ -21,10 +21,26 @@
     </item>
     
     <item>
-      <title>Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen</title>
+      <title>Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen (CHI&#39; 20)</title>
       <link>https://NianlongL.github.io/publication/chi2020-vrpen/</link>
       <pubDate>Fri, 25 Sep 2020 15:49:20 +0800</pubDate>
       <guid>https://NianlongL.github.io/publication/chi2020-vrpen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the Uncertainty in 2D Moving Target Selection (UIST&#39; 19)</title>
+      <link>https://NianlongL.github.io/publication/uist2019-2dselection/</link>
+      <pubDate>Sun, 20 Oct 2019 15:30:59 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/uist2019-2dselection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring motor symptoms in Parkinson&#39;s disease via instrumenting daily artifacts with inertia sensors (CCFTPCI&#39; 19)</title>
+      <link>https://NianlongL.github.io/publication/ccftpci2019-spoon/</link>
+      <pubDate>Mon, 27 May 2019 16:56:27 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/ccftpci2019-spoon/</guid>
       <description></description>
     </item>
     
