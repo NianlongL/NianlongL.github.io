@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinan Fu | Nianlong Li</title>
+    <link>https://NianlongL.github.io/author/yinan-fu/</link>
+      <atom:link href="https://NianlongL.github.io/author/yinan-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinan Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 15:48:39 +0800</lastBuildDate>
+    <image>
+      <url>https://NianlongL.github.io/images/icon_hua0b2d84c23b4b930706270df8ba94698_101266_512x512_fill_lanczos_center_2.png</url>
+      <title>Yinan Fu</title>
+      <link>https://NianlongL.github.io/author/yinan-fu/</link>
+    </image>
+    
+    <item>
+      <title>(CHI &#39;21) vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR with Virtual Mirrors</title>
+      <link>https://NianlongL.github.io/publication/chi2021-vmirror/</link>
+      <pubDate>Thu, 14 Jan 2021 15:48:39 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/chi2021-vmirror/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
