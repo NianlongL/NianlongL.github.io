@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teng Han* | Nianlong Li</title>
+    <link>https://NianlongL.github.io/author/teng-han/</link>
+      <atom:link href="https://NianlongL.github.io/author/teng-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teng Han*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Apr 2025 15:48:39 +0800</lastBuildDate>
+    <image>
+      <url>https://NianlongL.github.io/images/icon_hua0b2d84c23b4b930706270df8ba94698_101266_512x512_fill_lanczos_center_2.png</url>
+      <title>Teng Han*</title>
+      <link>https://NianlongL.github.io/author/teng-han/</link>
+    </image>
+    
+    <item>
+      <title>(CHI &#39;25) RemapVR: An Immersive Authoring Tool for Rapid Prototyping of Remapped Interaction in VR</title>
+      <link>https://NianlongL.github.io/publication/chi2025-remapvr/</link>
+      <pubDate>Sat, 26 Apr 2025 15:48:39 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/chi2025-remapvr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(IMWUT &#39;21) Douleur: Creating Pain Sensation with Chemical Stimulant to Enhance User Experience in Virtual Reality</title>
+      <link>https://NianlongL.github.io/publication/imwut2021-vrpain/</link>
+      <pubDate>Wed, 14 Jul 2021 12:50:10 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/imwut2021-vrpain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(CHI &#39;21) vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR with Virtual Mirrors</title>
+      <link>https://NianlongL.github.io/publication/chi2021-vmirror/</link>
+      <pubDate>Thu, 14 Jan 2021 15:48:39 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/chi2021-vmirror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(UIST &#39;20) HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism</title>
+      <link>https://NianlongL.github.io/publication/uist2020-haplinkage/</link>
+      <pubDate>Sat, 26 Sep 2020 15:26:31 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/uist2020-haplinkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(CHI &#39;20) Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen</title>
+      <link>https://NianlongL.github.io/publication/chi2020-vrpen/</link>
+      <pubDate>Fri, 25 Sep 2020 15:49:20 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/chi2020-vrpen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangmin Fan | Nianlong Li</title>
+    <link>https://NianlongL.github.io/author/xiangmin-fan/</link>
+      <atom:link href="https://NianlongL.github.io/author/xiangmin-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangmin Fan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 15:30:59 +0800</lastBuildDate>
+    <image>
+      <url>https://NianlongL.github.io/images/icon_hua0b2d84c23b4b930706270df8ba94698_101266_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiangmin Fan</title>
+      <link>https://NianlongL.github.io/author/xiangmin-fan/</link>
+    </image>
+    
+    <item>
+      <title>(UIST &#39;19) Modeling the Uncertainty in 2D Moving Target Selection</title>
+      <link>https://NianlongL.github.io/publication/uist2019-2dselection/</link>
+      <pubDate>Sun, 20 Oct 2019 15:30:59 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/uist2019-2dselection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(CCFTPCI &#39;19) Monitoring motor symptoms in Parkinson&#39;s disease via instrumenting daily artifacts with inertia sensors</title>
+      <link>https://NianlongL.github.io/publication/ccftpci2019-spoon/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://NianlongL.github.io/publication/ccftpci2019-spoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(CHI LBW &#39;18) 2D-BayesPointer: An Implicit Moving Target Selection Technique Enabled by Human Performance Modeling</title>
+      <link>https://NianlongL.github.io/publication/chilbw2018-2dbayespointer/</link>
+      <pubDate>Thu, 26 Apr 2018 16:49:35 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/chilbw2018-2dbayespointer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

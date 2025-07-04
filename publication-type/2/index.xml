@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Nianlong Li</title>
+    <link>https://NianlongL.github.io/publication-type/2/</link>
+      <atom:link href="https://NianlongL.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 12:50:10 +0800</lastBuildDate>
+    <image>
+      <url>https://NianlongL.github.io/images/icon_hua0b2d84c23b4b930706270df8ba94698_101266_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://NianlongL.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>(IMWUT &#39;21) Douleur: Creating Pain Sensation with Chemical Stimulant to Enhance User Experience in Virtual Reality</title>
+      <link>https://NianlongL.github.io/publication/imwut2021-vrpain/</link>
+      <pubDate>Wed, 14 Jul 2021 12:50:10 +0800</pubDate>
+      <guid>https://NianlongL.github.io/publication/imwut2021-vrpain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(CCFTPCI &#39;19) Monitoring motor symptoms in Parkinson&#39;s disease via instrumenting daily artifacts with inertia sensors</title>
+      <link>https://NianlongL.github.io/publication/ccftpci2019-spoon/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://NianlongL.github.io/publication/ccftpci2019-spoon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

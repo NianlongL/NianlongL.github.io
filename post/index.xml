@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Nianlong Li</title>
+    <link>https://NianlongL.github.io/post/</link>
+      <atom:link href="https://NianlongL.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 20:18:33 +0800</lastBuildDate>
+    <image>
+      <url>https://NianlongL.github.io/images/icon_hua0b2d84c23b4b930706270df8ba94698_101266_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://NianlongL.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://NianlongL.github.io/post/20200829/</link>
+      <pubDate>Sat, 29 Aug 2020 20:18:33 +0800</pubDate>
+      <guid>https://NianlongL.github.io/post/20200829/</guid>
+      <description>&lt;p&gt;Paper accepted to UIST 2020 and won an Honorable Mention Award. Congrats to co-authors from KAIST and Dartmouth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Moving Target Selection Technology based on Correction of User Performance Model. </title>
+      <link>https://NianlongL.github.io/post/20200306/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://NianlongL.github.io/post/20200306/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
